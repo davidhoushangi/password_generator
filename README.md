@@ -15,6 +15,7 @@ password-generator/
 │
 ├── src/
 │   └── password_generator.py  # Main script containing all classes
+|    └── dashboard.py # used streamlit to showcase
 │── requirements.txt
 └── README.md
 ```
