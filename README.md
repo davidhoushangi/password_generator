@@ -15,7 +15,7 @@ password-generator/
 │
 ├── src/
 │   └── password_generator.py  # Main script containing all classes
-│
+│── requirements.txt
 └── README.md
 ```
 ## Requirements
