@@ -1,2 +1,2 @@
 python >= 3.7
-nlkt
+nlkt=3.8.1
