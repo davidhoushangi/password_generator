@@ -1,5 +1,5 @@
 # Python Password Generator Toolkit
-<img width="1102" height="856" alt="image" src="https://github.com/user-attachments/assets/77dc730a-b5ff-44dd-ba13-5a37df850ca5" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/77dc730a-b5ff-44dd-ba13-5a37df850ca5" />
 
 ## Project Description
 A Python-based toolkit designed to generate various types of passwords. Built using Object-Oriented Programming (OOP) principles, this project provides a flexible architecture for creating numeric PINs, highly randomized string passwords, and memorable word-based passwords.
